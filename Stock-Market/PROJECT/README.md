@@ -1,5 +1,5 @@
 
-Source code Repository URL: https://github.com/dedeepyasreechilukoti/STOCK-MARKET-DASHBOARD
+Source code Repository URL: 
 
 Tech Used: React-Native, native-echarts, expo, antd-mobile,react-navigation
 
